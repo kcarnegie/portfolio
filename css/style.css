@@ -869,7 +869,7 @@ figure {
 .content {
   position: relative;
   background: white;
-  margin-bottom: 400px;
+  margin-bottom: 0px;
   overflow: hidden; }
   .content article {
     padding: 50px 0;
@@ -961,8 +961,8 @@ img {
     transition: all 0.3s ease-in-out; }
 
 .large-window {
-  height: 640px;
-  background-image: url(../images/model2.jpg);
+  height: 0px;
+  /* background-image: url(../images/model2.jpg); */
   background-position: center 0px;
   background-repeat: repeat-y;
   background-attachment: fixed;
